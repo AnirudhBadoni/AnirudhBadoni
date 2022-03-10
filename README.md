@@ -2,8 +2,6 @@
 
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="./assets/Cover-page (1).png" />
-  
   </div>
   
   <p>&nbsp;</p>
