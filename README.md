@@ -9,9 +9,9 @@
 <div align="center">
  
  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AnirudhBadoni)
-[![Linkedin Badge](https://img.shields.io/badge/-Anirudh%20Badoni-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/Anirudhbadoni/)](https://www.linkedin.com/in/anirudh-badoni-5a1489196) [![GitHub followers](https://img.shields.io/github/followers/Anirudhbadoni?label=Follow&style=social)](https://github.com/AnirudhBadoni/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-Anirudhbadoni-blue?style=social&logo=Instagram&link=https://www.instagram.com/Anirudhbadoni/)](https://www.instagram.com/anirudhbadoni/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Anirudh%20Badoni-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/Anirudhbadoni/)](https://www.linkedin.com/in/anirudh-badoni-5a1489196) [!
+
 
 
 </div>  
