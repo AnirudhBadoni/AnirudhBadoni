@@ -10,7 +10,7 @@
  
  
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anirudh%20Badoni-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/Anirudhbadoni/)](https://www.linkedin.com/in/anirudh-badoni-5a1489196) [!
+[![Linkedin Badge](https://img.shields.io/badge/-Anirudh%20Badoni-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/Anirudhbadoni/)](https://www.linkedin.com/in/anirudh-badoni-5a1489196)
 
 
 
